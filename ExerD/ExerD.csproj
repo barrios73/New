@@ -36,6 +36,9 @@
     <StartupObject>ExerD.D4</StartupObject>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Point">
+      <HintPath>..\..\..\Practice\Point\Point\bin\Debug\Point.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
