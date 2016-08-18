@@ -12,7 +12,7 @@ namespace ExerD
         static void Main(string[] args)
         {
 
-            double inputNumber;
+            double inputNumber; //ffdsflllldflld
             double G;
             Random rnd1 = new Random();
 
